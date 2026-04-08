@@ -8,7 +8,7 @@
 ## 项目亮点
 
 - 完成端到端机器学习流程：从原始数据到模型结果、图表、业务洞察文件自动生成
-- 引入多模型对比: <code>'Logistic Regression'<code>、`Random Forest`、`HistGradientBoosting`、`XGBoost`
+- 引入多模型对比: `Logistic Regression`、`Random Forest`、`HistGradientBoosting`、`XGBoost`
 - 加入`5-fold` 交叉验证，并补充 `ROC-AUC`、`PR-AUC`、`Precision`、`Recall`、`F1`
 - 使用 `SMOTE` 处理类别不平衡问题，并对最佳模型做分类阈值优化
 - 输出业务洞察报告、特征重要性和多种评估图表，兼顾模型效果与业务解释
