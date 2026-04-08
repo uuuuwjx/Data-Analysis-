@@ -1,0 +1,65 @@
+{
+  "overall_churn_rate": 0.2653698707936959,
+  "highest_risk_contract": {
+    "segment": "Month-to-month",
+    "churn_rate": 0.4270967741935484
+  },
+  "highest_risk_payment_method": {
+    "segment": "Electronic check",
+    "churn_rate": 0.4528541226215645
+  },
+  "highest_risk_internet_service": {
+    "segment": "Fiber optic",
+    "churn_rate": 0.4189276485788114
+  },
+  "tech_support_gap": {
+    "without_support": 0.4163547365390153,
+    "with_support": 0.15166340508806261
+  },
+  "online_security_gap": {
+    "without_security": 0.4176672384219554,
+    "with_security": 0.14611193660227836
+  },
+  "top_model_drivers": [
+    {
+      "feature": "Contract_Month-to-month",
+      "importance": 0.32911229133605957
+    },
+    {
+      "feature": "OnlineSecurity_No",
+      "importance": 0.08914022892713547
+    },
+    {
+      "feature": "TechSupport_No",
+      "importance": 0.06601201742887497
+    },
+    {
+      "feature": "InternetService_Fiber optic",
+      "importance": 0.03485604003071785
+    },
+    {
+      "feature": "OnlineBackup_No",
+      "importance": 0.03403693437576294
+    },
+    {
+      "feature": "Dependents_Yes",
+      "importance": 0.03249673917889595
+    },
+    {
+      "feature": "PaymentMethod_Electronic check",
+      "importance": 0.027920955792069435
+    },
+    {
+      "feature": "TechSupport_Yes",
+      "importance": 0.023046288639307022
+    },
+    {
+      "feature": "OnlineSecurity_Yes",
+      "importance": 0.022055746987462044
+    },
+    {
+      "feature": "OnlineBackup_Yes",
+      "importance": 0.02057712897658348
+    }
+  ]
+}
