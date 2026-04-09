@@ -18,7 +18,6 @@
 ├── data/                   # 存放实验用数据集
 ├── docs/                   # 项目文档
 ├── src/                    # 核心代码实现
-├── notebooks/              # Jupyter Notebook 示例与实验
 ├── requirements.txt        # Python 依赖包列表
 └── README.md               # 项目说明文件
 ```
@@ -38,12 +37,6 @@
    pip install -r requirements.txt
    ```
 
-3. 运行示例代码或打开 notebook：
-
-   ```bash
-   cd notebooks
-   jupyter notebook
-   ```
 
 ## 适用人群
 
