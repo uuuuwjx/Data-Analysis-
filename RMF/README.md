@@ -15,6 +15,7 @@
 RFM Customer Value Analytics/
 ├─ online_retail_II.xlsx
 ├─ requirements.txt
+├─ app.py
 ├─ README.md
 ├─ src/
 │  └─ rfm_pipeline.py
