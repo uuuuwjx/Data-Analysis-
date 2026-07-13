@@ -1,7 +1,0 @@
-metric,value
-raw_rows,1067371
-clean_rows,793609
-rows_removed,273762
-canceled_rows,18688
-unique_customers,5878
-unique_invoices,36969
